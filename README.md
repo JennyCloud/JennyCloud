@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I’m Jenny Wang 👋  
+Cloud learner focused on **Azure administration**, Infrastructure-as-Code, and automation.  
+Building hands-on labs and developing real cloud engineering skills.
 
-<!--
-**JennyCloud/JennyCloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Focus Areas
+- Azure Administration (AZ-104 path)  
+- Infrastructure-as-Code with **Bicep**  
+- GitHub Actions automation  
+- Cloud troubleshooting & architecture basics  
 
-Here are some ideas to get you started:
+## 💼 Background
+Worked as a **C#/.NET developer** and later as a **system/cloud administrator** (non-Azure), supporting production systems, deployments, and troubleshooting.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This gave me strong foundations in:
+- Software engineering  
+- Windows Server & networking  
+- Automation and scripting  
+- Operational problem-solving  
+
+Now applying these skills as I transition into **Azure cloud engineering and DevOps**.
+
+## 🧩 Projects
+- **Azure Zero-to-Hero Portfolio:** Networking, identity, storage, VM, IaC, and troubleshooting labs  
+- **Open-Source Contribution:** Documentation update to **Microsoft Azure/Bicep**
+
+## 🛠️ Tools & Skills
+Azure · Bicep · PowerShell · GitHub Actions · Azure CLI · .NET/C#

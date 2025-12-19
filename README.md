@@ -1,27 +1,21 @@
 # Hi, I’m Jenny Wang 👋  
-Cloud learner focused on **Azure administration**, Infrastructure-as-Code, and automation.  
-Building hands-on labs and developing real cloud engineering skills.
+Cloud learner focused on **Azure administration**, Infrastructure-as-Code, automation, and security.  
+Building practical labs and real-world cloud engineering skills.
 
 ## 🚀 Focus Areas
 - Azure Administration (AZ-104 path)  
 - Infrastructure-as-Code with **Bicep**  
 - GitHub Actions automation  
-- Cloud troubleshooting & architecture basics  
+- Identity, governance, and cloud security basics  
 
 ## 💼 Background
-Worked as a **C#/.NET developer** and later as a **system/cloud administrator** (non-Azure), supporting production systems, deployments, and troubleshooting.  
+My experience includes working as a **C#/.NET developer** and **system/cloud administrator** (non-Azure), supporting production systems, deployments, and troubleshooting. I also completed graduate studies in cybersecurity, which strengthened my understanding of system security and operational risk.
 
-This gave me strong foundations in:
-- Software engineering  
-- Windows Server & networking  
-- Automation and scripting  
-- Operational problem-solving  
-
-Now applying these skills as I transition into **Azure cloud engineering and DevOps**.
+This foundation supports my transition into **Azure cloud engineering and DevOps**.
 
 ## 🧩 Projects
 - **Azure Zero-to-Hero Portfolio:** Networking, identity, storage, VM, IaC, and troubleshooting labs  
 - **Open-Source Contribution:** Documentation update to **Microsoft Azure/Bicep**
 
 ## 🛠️ Tools & Skills
-Azure · Bicep · PowerShell · GitHub Actions · Azure CLI · .NET/C#
+Azure · Bicep · PowerShell · GitHub Actions · Azure CLI · Windows Server · .NET/C# · Security Fundamentals

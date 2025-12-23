@@ -1,20 +1,19 @@
 # Hi, I’m Jenny Wang 👋  
-Cloud learner focused on **Azure administration**, Infrastructure-as-Code, automation, and cloud security.
+Aspiring **Azure Administrator / Cloud Engineer** focused on operating secure, automated cloud environments.
 
-## 🚀 Focus Areas
-- Azure Administration (AZ-104 path)  
-- Infrastructure-as-Code with **Bicep**  
-- GitHub Actions for automation  
-- Identity, governance, and cloud security  
+## 🔧 Focus Areas
+- Azure administration and operations (AZ-104 path)
+- Infrastructure-as-Code with **Bicep**
+- CI/CD automation using **GitHub Actions**
+- Identity, governance, and cloud security
 
 ## 💼 Background
-I previously worked as a **backend developer (C#/.NET) with SQL databases** and later expanded into **system/cloud administration** (non-Azure). This gave me hands-on experience with application troubleshooting, deployments, server management, and performance tuning. I also completed graduate studies in cybersecurity, which strengthened my understanding of system security and operational risk.
+I have a background in **backend development (C#/.NET, SQL)** and **system/cloud administration**, with graduate-level studies in **cybersecurity**. This gives me a strong foundation in troubleshooting, automation, and secure operations as I transition fully into Azure.
 
-This foundation supports my transition into **Azure cloud engineering and DevOps**.
+## 🧩 Portfolio
+- **[Azure Zero-to-Hero](./Azure-Zero-to-Hero)** – Production-style Azure admin labs (networking, HA, private access, IaC)
+- **[HelpHub Community Exchange](https://github.com/JennyCloud/helphub-app)** – End-to-end Azure admin project with Bicep and GitHub Actions (OIDC)
+- **[Open-source contribution – Microsoft Azure/Bicep](https://github.com/Azure/bicep)** – Documentation contribution
 
-## 🧩 Projects
-- **Azure Zero-to-Hero Portfolio:** Networking, identity, storage, VM, IaC, and troubleshooting labs  
-- **Open-Source Contribution:** Documentation update to **Microsoft Azure/Bicep**
-
-## 🛠️ Tools & Skills
-Azure · Bicep · PowerShell · GitHub Actions · Azure CLI · Windows Server · .NET/C# · SQL · Security Fundamentals
+## 🛠️ Tools
+Azure · Bicep · PowerShell · Azure CLI · GitHub Actions · .NET · SQL · Security
